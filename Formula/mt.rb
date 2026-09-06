@@ -10,7 +10,7 @@ class Mt < Formula
     end
 
     def caveats; <<~EOS
-        To finish installing: eval "$(mt init)"
+        To finish installing: eval "$(mt init)" >> ~/.zshrc (or your terminal)
     EOS
     end
 
