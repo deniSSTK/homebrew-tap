@@ -1,8 +1,8 @@
 class Mt < Formula
     desc "CLI utility for fast directory navigation"
     homepage "https://github.com/deniSSTK/mt-cli"
-    url "https://github.com/deniSSTK/mt-cli/archive/refs/tags/v1.0.0.tar.gz"
-    sha256 "3ad315aa70b7724fd58e24959fb42273ac99d8e2aee503798e08794f39b1c8e4"
+    url "https://github.com/deniSSTK/mt-cli/archive/refs/tags/v1.0.1.tar.gz"
+    sha256 "38f96fb3baeccc4bce539c2d7184ed0154f6f3e22f79340121d2de74905f8582"
     license "MIT"
 
     def install
