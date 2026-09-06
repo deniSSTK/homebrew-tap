@@ -6,7 +6,7 @@ class Mt < Formula
     license "MIT"
 
     def install
-        bin.install "mt"
+        bin.install "mt-cli" => "mt"
     end
 
     def caveats; <<~EOS
